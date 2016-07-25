@@ -4,3 +4,6 @@ gaussfact()
 gaussfact()
 gaussfact()
 
+
+
+hist(rnorm(100))
