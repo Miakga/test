@@ -6,4 +6,5 @@ gaussfact()
 
 
 
-hist(rnorm(100))
+
+hej
